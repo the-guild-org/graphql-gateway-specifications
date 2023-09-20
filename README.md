@@ -6,4 +6,17 @@ This repository aims to discuss, suggest, and build a community-backed set of sp
 
 ## RFCs 
 
-- 
+- [Response Caching](https://github.com/the-guild-org/graphql-gateway-specifications/issues/1)
+- [Normalized/Partial Caching](https://github.com/the-guild-org/graphql-gateway-specifications/issues/2)
+- [Persisted Queries](https://github.com/the-guild-org/graphql-gateway-specifications/issues/3)
+- [Real-time transport (Subscriptions, `@live` / `@stream` / `@defer`)](https://github.com/the-guild-org/graphql-gateway-specifications/issues/4)
+- [Rate-limit](https://github.com/the-guild-org/graphql-gateway-specifications/issues/5)
+- [Complexity-limit](https://github.com/the-guild-org/graphql-gateway-specifications/issues/6)
+- [Depth-limit](https://github.com/the-guild-org/graphql-gateway-specifications/issues/7)
+- [Security validations](https://github.com/the-guild-org/graphql-gateway-specifications/issues/8)
+- [HTTP Headers propagation/passthrough](https://github.com/the-guild-org/graphql-gateway-specifications/issues/11)
+
+## Discussions
+
+- [Best practices for public APIs](https://github.com/the-guild-org/graphql-gateway-specifications/issues/9)
+- [Best practices for private APIs](https://github.com/the-guild-org/graphql-gateway-specifications/issues/10)
